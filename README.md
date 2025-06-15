@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WELCOME&fontSize=90&animation=fadeIn&fontAlignY=38&desc=SUJUNG%20GitHub!&descAlignY=55&descAlign=50)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsujung00&count_bg=%23AAEFFF&title_bg=%23C7C7C7&icon=icloud.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 🤍 WEB 🤍
 <!-- HTML -->
@@ -26,12 +25,20 @@
 ### 🤍 Framework 🤍
 <!-- SpringBoot -->
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<!-- Spring -->
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <!-- MyBatis -->
 <img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&logo=Fluentd&logoColor=white" />
 
 ### 💙 Database 💙
 <!-- MySQL -->
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<!-- Oracle -->
+<img src="https://img.shields.io/badge/oracle-F47920?style=for-the-badge&logo=oracle&logoColor=white">
+<!-- altibase -->
+<img src="https://img.shields.io/badge/altibase-263C5C?style=for-the-badge&logo=altibase&logoColor=white">
+<!-- redis -->
+<img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
 
 ### 🤍 Cloud Platform 🤍
 <!-- Amazon AWS -->
@@ -41,7 +48,14 @@
 <!-- github -->
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <!-- sourcetree -->
-<img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"><br><br><br>
+<img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
+<!-- bitbucket -->
+<img src="https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white">
+
+### 🤍 CI/CD 🤍
+<!--bamboo -->
+<img src="https://img.shields.io/badge/bamboo-0052CC?style=for-the-badge&logo=bamboo&logoColor=white">
+<br><br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujung00&layout=compact"><br><br>
 ![sujung00's github stats](https://github-readme-stats.vercel.app/api?username=sujung00&show_icons=true)
