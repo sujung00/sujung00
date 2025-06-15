@@ -37,6 +37,8 @@
 <img src="https://img.shields.io/badge/oracle-F47920?style=for-the-badge&logo=oracle&logoColor=white">
 <!-- altibase -->
 <img src="https://img.shields.io/badge/altibase-263C5C?style=for-the-badge&logo=altibase&logoColor=white">
+<!-- mariadb -->
+<img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 <!-- redis -->
 <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
 
