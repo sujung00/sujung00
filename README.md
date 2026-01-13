@@ -58,5 +58,3 @@
 <!--bamboo -->
 <img src="https://img.shields.io/badge/bamboo-0052CC?style=for-the-badge&logo=bamboo&logoColor=white">
 <br><br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujung00&layout=compact"><br><br>
